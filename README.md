@@ -1,7 +1,6 @@
 # Hello World, I'm Sylvain Roh!
 
 
-- 🔭 I’m currently looking for new opportunities.
 - 🌱 I’m passionate about web developpment and all kind of modern technologies.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source) projects.
 - ⚡ Fun fact: I love gaming, freestyle skiing and anime.
