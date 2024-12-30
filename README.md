@@ -11,7 +11,7 @@
 
 ## 💻 My Tech Stack:
 
-[![Laravel, Tailwind, Livewire, React, Vue](https://skillicons.dev/icons?i=laravel,react,vue,tailwind,nextjs,js,ts,php,vite,git,webpack,nodejs,docker)](https://skillicons.dev)
+[![Laravel, Tailwind, Livewire, React, Vue](https://skillicons.dev/icons?i=laravel,react,vue,tailwind,nextjs,js,ts,php,vite,git,webpack,nodejs,docker,alpinejs,azure,bun,express,gitlab,linux,windows,md,mysql,notion,npm,nuxtjs,phpstorm,postman,py,sentry,svelte,terraform)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
