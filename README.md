@@ -3,7 +3,8 @@
 
 - 🌱 I’m passionate about web developpment and all kind of modern technologies.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source) projects.
-- ⚡ Fun fact: I love gaming, freestyle skiing and anime.
+- 💻 I'm working on building my 1st SaaS.
+- ⚡ Fun fact: I love tinkering with technology, gaming, freestyle skiing and anime.
 
 ## 💡 A Quote:
 
